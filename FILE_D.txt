@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 YA NO ESTAS LEYENDO ESTO
 SE ENTIENDE!!
+>>>>>>> main
 Linea 1
 Linea 2
 Linea 3
